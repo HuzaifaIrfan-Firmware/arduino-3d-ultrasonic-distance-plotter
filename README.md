@@ -4,7 +4,8 @@
   <p><h3 align="center">3d space ultrasonic distance plotter 🚀</h3></p>
 </div>
 
-https://youtube.com/shorts/jxF30eEdFHE
+
+[![3D Ultrasonic Plotter Arduino](https://ytcards.demolab.com/?id=jxF30eEdFHE&title=3D+Ultrasonic+Plotter+Arduino&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/jxF30eEdFHE)
 
 <hr>
 
