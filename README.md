@@ -36,3 +36,5 @@
 # 📜 License
 
 Licensed under the GPL3 License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
+
+Last Updated on 2022-05-27
